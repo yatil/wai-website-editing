@@ -47,6 +47,8 @@ Once you are OK with your changes in the preview, you merge the changes into the
 
 Currently, while in development, we have to manually pull the changes into the main `wai-website` repository and then render the site locally and upload the changes through CVS. The aim is to automate most, if not all, of those steps. However, I’m unsure how to bridge the gap between GitHub and CVS and I have to check back with the systeam.
 
+---
+
 <a name="myfootnote1">[^1]</a>:	Maybe we can even link to the correct document directly, but I have to see if that is an option.
 
 <a name="myfootnote2">[^2]</a>:	Markdown Tables, for example, are not as easy to use as HTML tables are. On the other hand, not having to remember to add `<p>` elements makes it easier to edit files.
